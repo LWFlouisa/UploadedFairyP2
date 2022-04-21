@@ -1,2 +1,2 @@
-# UploadedFairyP2
-Second part of the Uploaded Fairy webcomic.
+### Uploaded Fairy
+![cover](https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/scaledcover2.png)
