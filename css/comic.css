@@ -60,7 +60,7 @@ a {
 /*=============================*/
 
 .jumbotron {
-  background-image: url({{ site.url }}/images/gallery/lisamarie.jpg);
+  background-image: url({{ site.url }}/images/gallery/lisamarie.png);
   font-family: 'Fredoka One', cursive;
 }
 
